@@ -1,0 +1,19 @@
+{
+    "name": "onur/xml2json",
+    "description": "XML to Json",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Onur\\Xml2json\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Onur Evren",
+            "email": "onur.evren@ayssoft.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
